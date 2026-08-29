@@ -1,5 +1,0 @@
-Photography Wiki
-Documentation version: 1.2.0
-Minecraft: 1.21.1
-Loader: Fabric
-Generated from the Photography 1.2.0 final source behavior.
